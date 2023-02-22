@@ -5,12 +5,13 @@ Programming Language : Python
 
 How To use
 
+Save the python file into a folder 
 Run it with 
 
-1. Python3 ./Reckiter  (For Unix)
-2. Python .\Reckiter   (For Windows)
-Scan the QR Code then press enter
-Rename the XML file from the link
+1. Python ./Reckiter.py 
+
+Scan the QR Code (with scanner) then press enter, it will automatically read and download the xml file from the url
+Rename the XML file from the link then press enter to save 
 Press Enter if you are finish
 
 Module you will need in Python
